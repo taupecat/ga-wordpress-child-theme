@@ -21,3 +21,9 @@ It will save time in class if you download the following files before attending:
 * [This GitHub repository](https://github.com/taupecat/ga-wordpress-class/archive/master.zip)
 * [The WordPress Theme Unit Test](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml)
 
+## Class Agenda
+
+1. Install WordPress and set up our development environment.
+1. Explore the template hierarchy.
+1. The WordPress Loop
+1. Create our child theme using WordPress best practices.
