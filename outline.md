@@ -34,3 +34,9 @@
 * Certain popular frameworks operate under a child theme model; you purchase the theme framework and build child themes to operate on top of them.
 * It's a digestable task for a two hour class.
 
+## Installation
+
+## Activate Twenty Thirteen
+
+## Turn on WP_DEBUG
+
