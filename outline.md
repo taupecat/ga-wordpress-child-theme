@@ -69,3 +69,12 @@ Admin -> Appearance -> Themes
 1. Template Hierarchy
 1. WordPress Loop
 1. Next Steps
+
+
+
+## Goals of the Class
+
+* Proper CSS & JS enqueuing
+* Altering parent theme behavior via a child theme
+* Understanding template hierarchy
+* Where to go for help (Codex, function reference, support forum)
