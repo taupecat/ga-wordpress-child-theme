@@ -23,3 +23,8 @@ function ga_header_background_positioning() {
 <?php
 }
 add_action( 'wp_head', 'ga_header_background_positioning', 15 );
+
+/**
+ * Add support for a custom header image.
+ */
+require get_stylesheet_directory() . '/inc/custom-header.php';
