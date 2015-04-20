@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 
 	<head>
@@ -28,10 +28,6 @@
 			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
 			document.getElementsByTagName( 'head' )[0].appendChild( link );
 		</script>
-
-		<!--[if lt IE 9]>
-		<script src="lib/js/html5shiv.js"></script>
-		<![endif]-->
 	</head>
 
 	<body>
@@ -73,9 +69,11 @@
 
 				<section id="why-wordpress">
 					<h2>Why WordPress?</h2>
-					<p>
-						WordPress drives approximately 23% of the Internet and rising. (Source: <a href="http://w3techs.com/technologies/details/cm-wordpress/all/all">W3 Techs</a>)
-					</p>
+					<ul>
+						<li>WordPress drives approximately 23% of the Internet and rising.<br/>
+						(Source: <a href="http://w3techs.com/technologies/details/cm-wordpress/all/all">W3 Techs</a>)</li>
+						<li>Started out as a blogging engine; Now a full-featured CMS.</li>
+					</ul>
 				</section>
 
 				<section id="local">
@@ -103,9 +101,12 @@
 					<h2>Basics of a Child Theme</h2>
 
 					<ul>
-						<li>style.css</li>
-						<li>functions.php</li>
-						<li>Template Files</li>
+						<li><strong>style.css</strong><br/>
+						Requires specially-formatted comments to be recognized by WordPress.</li>
+						<li><strong>functions.php</strong><br/>
+						Loaded before the parent's functions.php file.</li>
+						<li><strong>Template Files</strong><br/>
+						If exists, replaces the parent theme's template file.</li>
 					</ul>
 				</section>
 
@@ -131,6 +132,38 @@
 
 				<section id="create-theme-directory">
 					<h2>Create Our Child Theme Directory</h2>
+				</section>
+
+				<section id="resources">
+					<h2>Resources</h2>
+
+					<ul>
+						<li><a href="https://codex.wordpress.org/Child_Themes">WordPress Codex</a></li>
+						<li><a href="http://www.hongkiat.com/blog/wordpress-child-themes-dev/">WordPress Child Themes Development</a></li>
+						<li><a href="http://www.wpbeginner.com/wp-themes/how-to-create-a-wordpress-child-theme-video/">How to Create a WordPress Child Theme (Video)</a></li>
+					</ul>
+				</section>
+
+				<section id="advanced">
+					<h2>A Little More Advanced Stuff</h2>
+
+					<ul>
+						<li>Starter Themes vs. Parent/Child Themes</li>
+						<li>Getting Help</li>
+						<li>Security</li>
+					</ul>
+
+				</section>
+
+				<section id="thanks">
+					<h2>Thanks!</h2>
+
+					<ul>
+						<li><a href="mailto:trotton@rp3agency.com">trotton@rp3agency.com</a></li>
+						<li><a href="https://twitter.com/taupecat">@taupecat</a></li>
+						<li><a href="http://meetup.com/wordpressdc">WordPress DC</a></li>
+						<li>Look for my 2-day WordPress development bootcamp in June!</li>
+					</ul>
 				</section>
 
 			</div>
