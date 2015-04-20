@@ -3,6 +3,7 @@
  * Template: twentythirteen
  */
 
+/*
 a {
 	color: #5506a3;
 }
@@ -20,9 +21,7 @@ button,
 input[type="submit"],
 input[type="button"],
 input[type="reset"] {
-	background: #741cba; /* Old browsers */
-	background: -webkit-linear-gradient(top, #741cba 0%, #5d0fb1 100%); /* Chrome 10+, Safari 5.1+ */
-	background:   linear-gradient(to bottom, #741cba 0%, #5d0fb1 100%); /* W3C */
+	background: #741cba linear-gradient(to bottom, #741cba 0%, #5d0fb1 100%);
 	border-bottom-color: #490695;
 }
 
@@ -34,18 +33,14 @@ input[type="reset"]:hover,
 input[type="submit"]:focus,
 input[type="button"]:focus,
 input[type="reset"]:focus {
-	background: #8029c7; /* Old browsers */
-	background: -webkit-linear-gradient(top, #8029c7 0%, #6c21bf 100%); /* Chrome 10+, Safari 5.1+ */
-	background:   linear-gradient(to bottom, #8029c7 0%, #6c21bf 100%); /* W3C */
+	background: #8029c7 linear-gradient(to bottom, #8029c7 0%, #6c21bf 100%);;
 }
 
 button:active,
 input[type="submit"]:active,
 input[type="button"]:active,
 input[type="reset"]:active {
-	background: #5d0fb1; /* Old browsers */
-	background: -webkit-linear-gradient(top, #5d0fb1 0%, #741cba 100%); /* Chrome 10+, Safari 5.1+ */
-	background:   linear-gradient(to bottom, #5d0fb1 0%, #741cba 100%); /* W3C */
+	background: #5d0fb1 linear-gradient(to bottom, #5d0fb1 0%, #741cba 100%);
 	border-top-color: #490695;
 }
 
@@ -94,3 +89,4 @@ ul.nav-menu ul a:focus,
 .paging-navigation a:hover .meta-nav {
 	background-color: #7f22c3;
 }
+*/
