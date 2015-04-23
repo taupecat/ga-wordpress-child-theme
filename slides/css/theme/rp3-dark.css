@@ -70,9 +70,9 @@ body {
   transition: color .15s ease; }
 
 .reveal a:not(.image):hover {
-  color: #71e9f4;
+  color: #fe57a1;
   text-shadow: none;
-  border: none; }
+}
 
 .reveal .roll span:after {
   color: #fff;
@@ -145,3 +145,13 @@ body {
  *********************************************/
 .reveal .slide-number {
   color: #00bde3; }
+
+.reveal ul {
+  display: inline-block;
+}
+
+.reveal li {
+  line-height: 1.2;
+  margin-bottom: 0.5em;
+  text-align: left;
+}

@@ -1,0 +1,92 @@
+/**
+ * Theme Name: Twenty Thirteen Child
+ * Template: twentythirteen
+ */
+
+/*
+a {
+	color: #5506a3;
+}
+
+a:visited {
+	color: #5d038a;
+}
+
+a:active,
+a:hover {
+	color: #7f22c3;
+}
+
+button,
+input[type="submit"],
+input[type="button"],
+input[type="reset"] {
+	background: #741cba linear-gradient(to bottom, #741cba 0%, #5d0fb1 100%);
+	border-bottom-color: #490695;
+}
+
+button:hover,
+button:focus,
+input[type="submit"]:hover,
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:focus,
+input[type="button"]:focus,
+input[type="reset"]:focus {
+	background: #8029c7 linear-gradient(to bottom, #8029c7 0%, #6c21bf 100%);;
+}
+
+button:active,
+input[type="submit"]:active,
+input[type="button"]:active,
+input[type="reset"]:active {
+	background: #5d0fb1 linear-gradient(to bottom, #5d0fb1 0%, #741cba 100%);
+	border-top-color: #490695;
+}
+
+ul.nav-menu ul a:hover,
+.nav-menu ul ul a:hover,
+ul.nav-menu ul a:focus,
+.nav-menu ul ul a:focus {
+	background-color: #6a28b9;
+}
+
+.entry-title a {
+	color: #141412;
+}
+
+.entry-title a:hover {
+	color: #7f22c3;
+}
+
+.entry-meta a,
+.entry-content a,
+.comment-content a {
+	color: #490695;
+}
+
+.entry-meta a:hover {
+	color: #490695;
+}
+
+.entry-content a:hover,
+.comment-content a:hover {
+	color: #7f22c3;
+}
+
+.navigation a {
+	color: #4d0898;
+}
+
+.navigation a:hover {
+	color: #7f22c3;
+}
+
+.paging-navigation .meta-nav {
+	background-color: #5323c0;
+}
+
+.paging-navigation a:hover .meta-nav {
+	background-color: #7f22c3;
+}
+*/
